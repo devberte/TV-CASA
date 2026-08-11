@@ -1,10 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="WarnerTV.br" group-title="FAVORITOS", Warner TV
-https://883b79f2889beac4ec9e03a36952f943.cazetv.shop/embedtv/9d0a176341a24822bf12e5e82649bb2b/file.txt
+#EXTINF:-1,  group-title="FAVORITOS", [24H] Digimon Adventure
+http://asxc.pro:80/887429/DNFgcu/137620.ts
 
-#EXTINF:-1 tvg-id="TelecinePipoca.br" group-title="FAVORITOS", Telecine Pipoca
-https://883b79f2889beac4ec9e03a36952f943.cazetv.shop/embedtv/518bb38f9d4b92fd496991fdef29f30d/file.txt
+#EXTINF:-1, group-title="FAVORITOS", [24H] Digimon Digital Monsters [S01]
+http://asxc.pro:80/887429/DNFgcu/138076.ts
+
+#EXTINF:-1, group-title="FAVORITOS", [24H] Digimon Digital Monsters [S02]
+http://asxc.pro:80/887429/DNFgcu/138077.ts
+
+#EXTINF:-1, group-title="FAVORITOS", [24H] Digimon Digital Monsters [S03]
+http://asxc.pro:80/887429/DNFgcu/138078.ts
+
+#EXTINF:-1, group-title="FAVORITOS", [24H] Digimon Digital Monsters [S04]
+http://asxc.pro:80/887429/DNFgcu/138079.ts
+
+#EXTINF:-1, group-title="FAVORITOS", [24H] Digimon Digital Monsters [S05]
+http://asxc.pro:80/887429/DNFgcu/138080.ts
+
+#EXTINF:-1, group-title="FAVORITOS", [24H] Digimon Savers
+http://asxc.pro:80/887429/DNFgcu/137621.ts
+
+#EXTINF:-1, group-title="FAVORITOS", [24H] Digimon Tamers
+http://asxc.pro:80/887429/DNFgcu/138025.ts
 
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globorj.br" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="FAVORITOS", Globo RJ HD
 http://gerenciar.vivatele.com/viva_padrao/viva2384/1.ts
