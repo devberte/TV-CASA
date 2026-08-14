@@ -1,29 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,  group-title="FAVORITOS", [24H] Digimon Adventure
-http://asxc.pro:80/887429/DNFgcu/137620.ts
-
-#EXTINF:-1, group-title="FAVORITOS", [24H] Digimon Digital Monsters [S01]
-http://asxc.pro:80/887429/DNFgcu/138076.ts
-
-#EXTINF:-1, group-title="FAVORITOS", [24H] Digimon Digital Monsters [S02]
-http://asxc.pro:80/887429/DNFgcu/138077.ts
-
-#EXTINF:-1, group-title="FAVORITOS", [24H] Digimon Digital Monsters [S03]
-http://asxc.pro:80/887429/DNFgcu/138078.ts
-
-#EXTINF:-1, group-title="FAVORITOS", [24H] Digimon Digital Monsters [S04]
-http://asxc.pro:80/887429/DNFgcu/138079.ts
-
-#EXTINF:-1, group-title="FAVORITOS", [24H] Digimon Digital Monsters [S05]
-http://asxc.pro:80/887429/DNFgcu/138080.ts
-
-#EXTINF:-1, group-title="FAVORITOS", [24H] Digimon Savers
-http://asxc.pro:80/887429/DNFgcu/137621.ts
-
-#EXTINF:-1, group-title="FAVORITOS", [24H] Digimon Tamers
-http://asxc.pro:80/887429/DNFgcu/138025.ts
-
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globorj.br" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="FAVORITOS", Globo RJ HD
 http://gerenciar.vivatele.com/viva_padrao/viva2384/1.ts
 
@@ -457,4 +433,157 @@ https://dotjw4onyd4re.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68773ba2e9e90f4e11b35d9d/bunnycontent_main.m3u8
 
 ########################### FIM SERIES #########################
+
+#EXTINF:-1,  group-title="FAVORITOS", [24H] Digimon Adventure
+http://asxc.pro:80/887429/DNFgcu/137620.ts
+
+#EXTINF:-1, group-title="FAVORITOS", [24H] Digimon Digital Monsters [S01]
+http://asxc.pro:80/887429/DNFgcu/138076.ts
+
+#EXTINF:-1, group-title="FAVORITOS", [24H] Digimon Digital Monsters [S02]
+http://asxc.pro:80/887429/DNFgcu/138077.ts
+
+#EXTINF:-1, group-title="FAVORITOS", [24H] Digimon Digital Monsters [S03]
+http://asxc.pro:80/887429/DNFgcu/138078.ts
+
+#EXTINF:-1, group-title="FAVORITOS", [24H] Digimon Digital Monsters [S04]
+http://asxc.pro:80/887429/DNFgcu/138079.ts
+
+#EXTINF:-1, group-title="FAVORITOS", [24H] Digimon Digital Monsters [S05]
+http://asxc.pro:80/887429/DNFgcu/138080.ts
+
+#EXTINF:-1, group-title="FAVORITOS", [24H] Digimon Savers
+http://asxc.pro:80/887429/DNFgcu/137621.ts
+
+#EXTINF:-1, group-title="FAVORITOS", [24H] Digimon Tamers
+http://asxc.pro:80/887429/DNFgcu/138025.ts
+
+#EXTINF:-1,[24H] Chaves [S01]
+http://asxc.pro:80/887429/DNFgcu/137139.ts
+
+#EXTINF:-1,[24H] Chaves [S02]
+http://asxc.pro:80/887429/DNFgcu/137140.ts
+
+#EXTINF:-1,[24H] Chaves [S03]
+http://asxc.pro:80/887429/DNFgcu/137141.ts
+
+#EXTINF:-1,[24H] Chaves [S04]
+http://asxc.pro:80/887429/DNFgcu/137142.ts
+
+#EXTINF:-1,[24H] Chaves [S05]
+http://asxc.pro:80/887429/DNFgcu/137143.ts
+
+#EXTINF:-1,[24H] Chaves [S06]
+http://asxc.pro:80/887429/DNFgcu/137144.ts
+
+#EXTINF:-1,[24H] Chaves [S07]
+http://asxc.pro:80/887429/DNFgcu/137145.ts
+
+#EXTINF:-1,[24H] Chapolin Colorado [S01]
+http://asxc.pro:80/887429/DNFgcu/138000.ts
+
+#EXTINF:-1,[24H] Chapolin Colorado [S02]
+http://asxc.pro:80/887429/DNFgcu/138001.ts
+
+#EXTINF:-1,[24H] Chapolin Colorado [S03]
+http://asxc.pro:80/887429/DNFgcu/138002.ts
+
+#EXTINF:-1,[24H] Chapolin Colorado [S04]
+http://asxc.pro:80/887429/DNFgcu/138003.ts
+
+#EXTINF:-1,[24H] Chapolin Colorado [S05]
+http://asxc.pro:80/887429/DNFgcu/138004.ts
+
+#EXTINF:-1,[24H] Chapolin Colorado [S06]
+http://asxc.pro:80/887429/DNFgcu/138005.ts
+
+#EXTINF:-1,[24H] Chapolin Colorado [S07]
+http://asxc.pro:80/887429/DNFgcu/138006.ts
+
+#EXTINF:-1,[24H] Alien TV
+http://asxc.pro:80/887429/DNFgcu/140775.ts
+
+#EXTINF:-1,[24H] As Terriveis Aventuras de Billy e Mandy
+http://asxc.pro:80/887429/DNFgcu/135551.ts
+
+#EXTINF:-1,[24H] As Visoes da Raven
+http://asxc.pro:80/887429/DNFgcu/135558.ts
+
+#EXTINF:-1,[24H] Black Kamen Rider
+http://asxc.pro:80/887429/DNFgcu/149549.ts
+
+#EXTINF:-1,[24H] O Fantastico Jaspion
+http://asxc.pro:80/887429/DNFgcu/135568.ts
+
+#EXTINF:-1,[24H] Os Cavaleiros do Zodiaco - Alma de Ouro
+http://asxc.pro:80/887429/DNFgcu/137135.ts
+
+#EXTINF:-1,[24H] Os Cavaleiros do Zodiaco - Omega
+http://asxc.pro:80/887429/DNFgcu/138954.ts
+
+#EXTINF:-1,[24H] Os Cavaleiros do Zodiaco - Saga de Asgard [S02]
+http://asxc.pro:80/887429/DNFgcu/137131.ts
+
+#EXTINF:-1,[24H] Os Cavaleiros do Zodiaco - Saga de Hades [S04]
+http://asxc.pro:80/887429/DNFgcu/137133.ts
+
+#EXTINF:-1,[24H] Os Cavaleiros do Zodiaco - Saga de Poseidon [S03]
+http://asxc.pro:80/887429/DNFgcu/137132.ts
+
+#EXTINF:-1,[24H] Os Cavaleiros do Zodiaco - Saga do Santuario [S01]
+http://asxc.pro:80/887429/DNFgcu/137130.ts
+
+#EXTINF:-1,[24H] Os Cavaleiros do Zodiaco - The Lost Canvas
+http://asxc.pro:80/887429/DNFgcu/137134.ts
+
+#EXTINF:-1,[24H] Os Cavaleiros do Zodíaco Saint Seiya
+http://asxc.pro:80/887429/DNFgcu/137136.ts
+
+#EXTINF:-1,[24H] Alienigenas do Passado
+http://asxc.pro:80/887429/DNFgcu/140734.ts
+
+#EXTINF:-1,[24H] Supernatural [S01]
+http://asxc.pro:80/887429/DNFgcu/136726.ts
+
+#EXTINF:-1,[24H] Supernatural [S02]
+http://asxc.pro:80/887429/DNFgcu/136727.ts
+
+#EXTINF:-1,[24H] Supernatural [S03]
+http://asxc.pro:80/887429/DNFgcu/136728.ts
+
+#EXTINF:-1,[24H] Supernatural [S04]
+http://asxc.pro:80/887429/DNFgcu/136729.ts
+
+#EXTINF:-1,[24H] Supernatural [S05]
+http://asxc.pro:80/887429/DNFgcu/136730.ts
+
+#EXTINF:-1,[24H] Supernatural [S06]
+http://asxc.pro:80/887429/DNFgcu/136731.ts
+
+#EXTINF:-1,[24H] Supernatural [S07]
+http://asxc.pro:80/887429/DNFgcu/136732.ts
+
+#EXTINF:-1,[24H] Supernatural [S08]
+http://asxc.pro:80/887429/DNFgcu/136733.ts
+
+#EXTINF:-1,[24H] Supernatural [S09]
+http://asxc.pro:80/887429/DNFgcu/136734.ts
+
+#EXTINF:-1,[24H] Supernatural [S10]
+http://asxc.pro:80/887429/DNFgcu/136735.ts
+
+#EXTINF:-1,[24H] Supernatural [S11]
+http://asxc.pro:80/887429/DNFgcu/136736.ts
+
+#EXTINF:-1,[24H] Supernatural [S12]
+http://asxc.pro:80/887429/DNFgcu/136737.ts
+
+#EXTINF:-1,[24H] Supernatural [S13]
+http://asxc.pro:80/887429/DNFgcu/136738.ts
+
+#EXTINF:-1,[24H] Supernatural [S14]
+http://asxc.pro:80/887429/DNFgcu/136739.ts
+
+#EXTINF:-1,[24H] Supernatural [S15]
+http://asxc.pro:80/887429/DNFgcu/136740.ts
 
