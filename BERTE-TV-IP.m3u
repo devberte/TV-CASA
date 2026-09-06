@@ -1,12 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globorj.br" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="FAVORITOS", Globo RJ HD
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globorj.br" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="", Globo RJ HD
 http://gerenciar.vivatele.com/viva_padrao/viva2384/1.ts
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globorj.br" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="", Globo RJ HD TESTE
+http://45.190.28.50/GLOBO_HD/index.m3u8
 
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/band.png", BAND HD
 http://45.190.28.50/BAND_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="General",Record (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="General", Record HD
 http://45.190.28.50/RECORD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C5nMqAf.png" group-title="FAVORITOS", WORDING TV
@@ -144,8 +147,8 @@ http://avu.lat/live/246280519/864769056/431379.ts
 http://avu.lat/live/246280519/864769056/431380.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" group-title="Canais Documentários",DISCOVERY CHANNEL FHD
 http://avu.lat/live/246280519/864769056/431381.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" group-title="Canais Documentários",DISCOVERY CHANNEL HD
-http://avu.lat/live/246280519/864769056/431382.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" group-title="Canais Documentários",DISCOVERY CHANNEL HD BERT
+http://45.190.28.50/DISCOVERY_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/5d4be8a028d528b115c4997f9bcc8c08.png" group-title="Canais Documentários",DISCOVERY CHANNEL SD
 http://avu.lat/live/246280519/864769056/431383.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" group-title="Canais Documentários",DISCOVERY HOME & HEALTH FHD
@@ -156,14 +159,14 @@ http://avu.lat/live/246280519/864769056/431385.ts
 http://avu.lat/live/246280519/864769056/431386.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" group-title="Canais Documentários",DISCOVERY SCIENCE FHD
 http://avu.lat/live/246280519/864769056/431387.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" group-title="Canais Documentários",DISCOVERY SCIENCE HD
-http://avu.lat/live/246280519/864769056/431388.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" group-title="Canais Documentários",DISCOVERY SCIENCE HD BERT
+http://45.190.28.50/DISCOVERY_SCIENCE_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" group-title="Canais Documentários",DISCOVERY SCIENCE SD
 http://avu.lat/live/246280519/864769056/431389.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" group-title="Canais Documentários",DISCOVERY THEATER FHD
 http://avu.lat/live/246280519/864769056/431390.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" group-title="Canais Documentários",DISCOVERY THEATER HD
-http://avu.lat/live/246280519/864769056/431391.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" group-title="Canais Documentários",DISCOVERY THEATER HD BERT
+http://45.190.28.50/DISCOVERY_THEATER_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" group-title="Canais Documentários",DISCOVERY THEATER SD
 http://avu.lat/live/246280519/864769056/431392.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" group-title="Canais Documentários",DISCOVERY TLC FHD
@@ -174,14 +177,14 @@ http://avu.lat/live/246280519/864769056/431394.ts
 http://avu.lat/live/246280519/864769056/431395.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" group-title="Canais Documentários",DISCOVERY TURBO FHD
 http://avu.lat/live/246280519/864769056/431396.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" group-title="Canais Documentários",DISCOVERY TURBO HD
-http://avu.lat/live/246280519/864769056/431397.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" group-title="Canais Documentários",DISCOVERY TURBO HD BERT
+http://45.190.28.50/DISCOVERY_TURBO_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" group-title="Canais Documentários",DISCOVERY TURBO SD
 http://avu.lat/live/246280519/864769056/431398.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="Canais Documentários",DISCOVERY WORLD FHD
 http://avu.lat/live/246280519/864769056/431399.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="Canais Documentários",DISCOVERY WORLD HD
-http://avu.lat/live/246280519/864769056/431400.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="Canais Documentários",DISCOVERY WORLD HD BERT
+http://45.190.28.50/DISCOVERY_WORLD_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="Canais Documentários",DISCOVERY WORLD SD
 http://avu.lat/live/246280519/864769056/431401.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/ce70575f7ed3bb212ae01274838f02ea.png" group-title="Canais Documentários",H2 FHD
@@ -198,8 +201,8 @@ http://avu.lat/live/246280519/864769056/431406.ts
 http://avu.lat/live/246280519/864769056/431407.ts
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/5d83de1c9f32e1adaf68625c99c29ac4.png" group-title="Canais Documentários",HISTORY CHANNEL FHD
 http://avu.lat/live/246280519/864769056/431408.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/5d83de1c9f32e1adaf68625c99c29ac4.png" group-title="Canais Documentários",HISTORY CHANNEL HD
-http://avu.lat/live/246280519/864769056/431409.ts
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/5d83de1c9f32e1adaf68625c99c29ac4.png" group-title="Canais Documentários",HISTORY CHANNEL HD BERT
+http://45.190.28.50/HISTORY_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/5d83de1c9f32e1adaf68625c99c29ac4.png" group-title="Canais Documentários",HISTORY CHANNEL SD
 http://avu.lat/live/246280519/864769056/431410.ts
 
