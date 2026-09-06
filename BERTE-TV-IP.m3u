@@ -279,7 +279,7 @@ https://megaflix.mgfiles.lat/4e85e7c5e8160dd9f082bf1d86e75877/file.m3u8
 http://s2.micineovs.com/TELECINEPIPOCA/index.m3u8?token=16FOTt9Ae2m8
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.imgur.com/SGr7sdL.png" group-title="BERTE",Telecine Premium HD
-http://s2.micineovs.com/TELECINEPREMIUM/index.m3u8?token=16FOTt9Ae2m8
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/138.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="BERTE",Telecine Touch HD
 https://megaflix.mgfiles.lat/16c80e1a9ae560d747ffecbc3d47d7b5/file.m3u8
@@ -290,28 +290,28 @@ https://megaflix.mgfiles.lat/e8bec5b304af83c9c610d5f16a7a97f2/file.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="BERTE",Telecine Fun HD
 https://megaflix.mgfiles.lat/16dee219c907c289a44ae062e4303b8a/file.m3u8
 
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="FAVORITOS",CINEMAX HD
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="BERTE",CINEMAX HD
 https://megaflix.mgfiles.lat/3b8b64555fa7b54bd2219c85929f14c0/file.m3u8
 
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="FAVORITOS",MEGAPIX HD
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="https://imgur.com/H03jUu1.png" group-title="BERTE",MEGAPIX HD
 http://s2.micineovs.com/MEGAPIX/index.m3u8?token=16FOTt9Ae2m8
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="FAVORITOS",HBO HD
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="BERTE",HBO HD
 https://cr7v.short.gy/ManoTV/temporário/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://i.imgur.com/VGBP9wj.png" group-title="FAVORITOS",HBO+ HD 
+#EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://i.imgur.com/VGBP9wj.png" group-title="BERTE",HBO+ HD 
 https://megaflix.mgfiles.lat/d821613ce0d5a46d2cc4d0c322096fba/file.m3u8
 
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="FAVORITOS",HBO 2 HD
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="BERTE",HBO 2 HD
 https://megaflix.mgfiles.lat/271358327102dbcb00df1e1b08f2298e/file.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="FAVORITOS",HBO Family HD
 https://megaflix.mgfiles.lat/8ea50dc6ffce55fe09cf2468ab78d9c7/file.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="FAVORITOS",HBO Xtreme HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="BERTE",HBO Xtreme HD
 https://megaflix.mgfiles.lat/9b84e468352d6a70935cac946f3ee4c5/file.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="FAVORITOS",Universal Channel HD
+#EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="BERTE",Universal Channel HD
 http://79.127.243.211:14623/
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c66e37_a7fc789f6df244b09d8e33fcbb22b2bc~mv2.png/v1/fill/w_86,h_84,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c66e37_a7fc789f6df244b09d8e33fcbb22b2bc~mv2.png" group-title="FAVORITOS",Tela Brasil TV
@@ -342,25 +342,25 @@ http://45.190.28.50/ANIMAL_PLANET_HD/index.m3u8
 http://45.190.28.50/DISCOVERY_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://assistatv.me/images/c5a314670b6976dba193aa4e344f2cd4.png" group-title="Canais Documentários",DISCOVERY HOME & HEALTH HD
 http://avu.lat/live/246280519/864769056/431385.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" group-title="Canais Documentários",DISCOVERY SCIENCE HD BERT
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/09189c6bda55b3b599b52db11f3541fd.png" group-title="BERTE",DISCOVERY SCIENCE HD BERT
 http://45.190.28.50/DISCOVERY_SCIENCE_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" group-title="Canais Documentários",DISCOVERY THEATER HD BERT
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/c02e20b3a5e776914050a01c27e07146.png" group-title="BERTE",DISCOVERY THEATER HD BERT
 http://45.190.28.50/DISCOVERY_THEATER_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" group-title="Canais Documentários",DISCOVERY TLC HD BERT
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" group-title="BERTE",DISCOVERY TLC HD BERT
 http://45.190.28.50/TLC_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" group-title="Canais Documentários",DISCOVERY TURBO HD BERT
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/e1abf698c32f4da899e68adbe4e3b05f.png" group-title="BERTE",DISCOVERY TURBO HD BERT
 http://45.190.28.50/DISCOVERY_TURBO_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="Canais Documentários",DISCOVERY WORLD HD BERT
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="BERTE",DISCOVERY WORLD HD BERT
 http://45.190.28.50/DISCOVERY_WORLD_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/ce70575f7ed3bb212ae01274838f02ea.png" group-title="Canais Documentários",H2 FHD
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/ce70575f7ed3bb212ae01274838f02ea.png" group-title="BERTE",H2 FHD
 http://avu.lat/live/246280519/864769056/431402.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/ce70575f7ed3bb212ae01274838f02ea.png" group-title="Canais Documentários",H2 HD
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/ce70575f7ed3bb212ae01274838f02ea.png" group-title="BERTE",H2 HD
 http://avu.lat/live/246280519/864769056/431403.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/ce70575f7ed3bb212ae01274838f02ea.png" group-title="Canais Documentários",H2 SD
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/ce70575f7ed3bb212ae01274838f02ea.png" group-title="BERTE",H2 SD
 http://avu.lat/live/246280519/864769056/431404.ts
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/a88239c0a807add99a35d34163dd1ecb.png" group-title="Canais Documentários",HGTV HD BERT
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/a88239c0a807add99a35d34163dd1ecb.png" group-title="BERTE",HGTV HD BERT
 http://45.190.28.50/HGTV_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://assistatv.me/images/5d83de1c9f32e1adaf68625c99c29ac4.png" group-title="Canais Documentários",HISTORY CHANNEL HD BERT
+#EXTINF:-1 tvg-logo="https://assistatv.me/images/5d83de1c9f32e1adaf68625c99c29ac4.png" group-title="BERTE",HISTORY CHANNEL HD BERT
 http://45.190.28.50/HISTORY_HD/index.m3u8
 
 ############################################################################ Canais | VARIEDADES
@@ -600,56 +600,7 @@ https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68773ba2e9e9
 
 ########################### FIM SERIES #########################
 
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rede_Minas_logo.png", REDE MINAS
-https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/tv-camara.jpg", TV CÂMARA
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://assets.midiasimples.com.br/1603/tv_justica.png", TV JUSTIÇA
-https://hplay.tv/augetv/12396547488/24.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Canal_Futura.png", CANAL FUTURA
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/9
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://ricardocostadigital.com.br/wp-content/uploads/2022/04/logo.png", REDE MAIS FAMÍLIA
-https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://back.ww-cdn.com/superstatic/version/1821384/iphone/1021/photo/navBar_titleImage@2x.png", TV SECULO 21
-https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png", REDE VIDA
-https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://seeklogo.com/images/C/cancao-nova-logo-32E26101A3-seeklogo.com.png", CANÇAO NOVA
-http://gerenciar.vivatele.com/viva_padrao/viva2384/5
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png", TV APARECIDA
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/TV_Aparecida/TV_Aparecida_BR/TV_Aparecidap1080.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="http://files.adventistas.org/noticias/pt/2014/12/Novo-Tempo-comeca-novo-programa-sobre-criacionismo.png", TV NOVO TEMPO
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/b/b6/LOGO_RIT_2022_colorido.png", RIT
-https://acesso.ecast.site:3648/live/ritlive.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Logo_CNT.png", CNT
-http://168.205.87.198:8555/live/1354/123456/303.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://m.media-amazon.com/images/I/61VyTMEJkpL.png", TV CIDADE 9
-https://video09.logicahost.com.br/tvcidade/tvcidade/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/le7gs8M.png", TV METROPOLE
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w1432254016.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png?993794d440", TCM 10
-https://video09.logicahost.com.br/tcmcanal10/tcmcanal10/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_NGT.png/150px-Logotipo_da_NGT.png", NGT
-https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", LIDER TV
-http://saopaulo01.relaystream.io:1935/lidertvsspgmail.com/lidertvsspgmail.com/chunks.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/FsC88uT.png", REDE MEIO
-https://maystreaming.cloudecast.com/redemeio/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://ps-str.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png", TV GALEGA
-https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://play-lh.googleusercontent.com/pDJRGVJQ8yP-CMeARU3FeARr874n_EafWZV1XIytPg6ugWKgtZdORvadlMeMYZfhNSY=w600-h300-pc0xffffff-pd", PORTO ALEGRE TV
-https://rtisoluctions.com.br/hls/test_src.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MASTER TV
-https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png", TV CULTURA
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1200px-TV_Brasil_logo_2019.svg.png", TV BRASIL
-https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Canal_Gov_Logo.png/640px-Canal_Gov_Logo.png", CANAL GOV
-https://canalgov-stream.ebc.com.br/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://listaiptv.gratis/logos/imagens/band.png", BAND SP
-http://s2.micineovs.com/BAND/index.m3u8?token=16FOTt9Ae2m8
+
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv.png", BAND RJ
 http://138.255.2.6:8084/BAND/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://i.imgur.com/RzxWGrz.png", SBT SP
@@ -1704,6 +1655,7 @@ https://jmp2.uk/plu-69a20556814d27f4ae630a92.m3u8
 https://jmp2.uk/plu-63eba66da8b2270008436b10.m3u8
 #EXTINF:-1 tvg-id="PLUTO TV",YuGiOh.us@SD",Yu-Gi-Oh
 https://jmp2.uk/plu-63988a50be012600070f5db3.m3u8
-#EXTINF:-1 tvg-id="PLUTO TV",ZNation.us@SD",Z Nation
+
+#EXTINF:-1 tvg-logo="https://3dmatt.com/wp-content/uploads/2017/08/znation_featureImage.png" group-title="BERTE"tvg-id="PLUTO TV",ZNation.us@SD",Z Nation
 https://jmp2.uk/plu-66b3af48d2d50d00083d6936.m3u8
 
